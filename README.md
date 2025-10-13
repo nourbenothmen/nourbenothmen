@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nour El Houda BEN OTHMEN
 
-🎓 **Final Year Student in Software Engineering & IT Systems** | 🤖 **AI & Full-Stack Developer** | 📱 **Flutter Enthusiast**
+🎓 **Final Year Student in Software Engineering & IT Systems** | 🤖 ** Full-Stack Developer** 
 
 ---
 
