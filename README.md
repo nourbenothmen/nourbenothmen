@@ -34,34 +34,6 @@ I am a passionate software engineering student at the Higher Institute of Techno
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 Chatbot ISET Sfax
-An intelligent chatbot designed to answer student questions about ISET Sfax.
-- **Tech:** `Flask` `React.js`
-
-### 💼 Coin Tech – Microservices Admin Dashboard
-A scalable admin dashboard built with a microservices architecture.
-- **Features:** Product, client, invoice, and payment management with statistics visualization
-- **Tech:** `Spring Boot` `Angular` `JWT` `Docker` `Git`
-
-### 📱 Face Detector
-A mobile app for face detection and liveness detection in real-time.
-- **Features:** Gallery face detection, smile, eye openness, and head orientation detection
-- **Tech:** `Flutter` `Google ML Kit`
-
-### 🏥 Medical Portal
-A facial recognition-based patient management mobile app.
-- **Features:** Patient registration, facial authentication, appointment scheduling, email reminders
-- **Tech:** `Flutter` `Google ML Kit` `Firebase`
-
-### 🛒 Shop Swift
-A full-featured e-commerce web application.
-- **Features:** User auth, product catalog, order management, admin panel
-- **Tech:** `Angular` `Node.js` `Express.js` `MongoDB`
-
----
-
 ## 📈 GitHub Stats
 
 ![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
