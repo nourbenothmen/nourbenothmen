@@ -72,9 +72,9 @@ A full-featured e-commerce web application.
 
 ## 📫 Let's Connect
 
-- 📧 Email: [nourehoudabenothmen@gmail.com](mailto:nourehoudabenothmen@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio: [Your Portfolio Link](https://your-portfolio-link.com)
+- 📧 Email: [nourehoudabenothmen@gmail.com](mailto:nourehoudabenothmen0@gmail.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/nour-ben-othmen-b4964625b/)
+- 🌐 Portfolio: (https://nourboportfolio.netlify.app/)
 
 ---
 
