@@ -36,9 +36,9 @@ I am a passionate software engineering student at the Higher Institute of Techno
 
 ## 📈 GitHub Stats
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nourbenothmen&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourbenothmen&layout=compact&theme=radical)
 
 ---
 
