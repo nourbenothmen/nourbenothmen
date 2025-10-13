@@ -82,6 +82,28 @@ I am a passionate software engineering student at the Higher Institute of Techno
 
 ---
 
+<div align="center">
+
+## 🚀 GitHub Activity 2025
+
+### 📈 Real-time Contributions
+![2025 Contributions](https://ghchart.rshah.org/FF6B6B/nourbenothmen)
+
+### 🎯 Progress Overview
+```text
+⭐ 2025 Milestones
+├── 🎯 Annual Goal: 500 contributions
+├── 📊 Current Progress: 94/500 (19%)
+├── 🏃‍♀️ Pace: 23.5/month needed
+└── 📅 Projection: On track for 282
+
+📊 Monthly Performance  
+├── January: ██████████ 32 (34%)
+├── February: ████████ 28 (30%)
+├── March: ███████ 24 (26%)
+└── April: ███ 10 (11%) - ongoing
+
+
 ## 📫 Let's Connect
 
 <div align="center">
