@@ -11,7 +11,7 @@ I am a passionate software engineering student at the Higher Institute of Techno
 - 🔭 I’m currently working on **AI-powered mobile applications** and **microservices architectures**
 - 🌱 I’m continuously learning **DevOps, AI, NLP, and Machine Learning**
 - 💼 Open to collaboration on **web, mobile, or AI projects**
-- 📫 How to reach me: **nourehoudabenothmen@gmail.com**
+- 📫 How to reach me: **nourehoudabenothmen0@gmail.com**
 
 ---
 
@@ -72,7 +72,7 @@ A full-featured e-commerce web application.
 
 ## 📫 Let's Connect
 
-- 📧 Email: [nourehoudabenothmen@gmail.com](mailto:nourehoudabenothmen0@gmail.com)
+- 📧 Email: [nourehoudabenothmen0@gmail.com](mailto:nourehoudabenothmen0@gmail.com)
 - 💼 LinkedIn: (https://www.linkedin.com/in/nour-ben-othmen-b4964625b/)
 - 🌐 Portfolio: (https://nourboportfolio.netlify.app/)
 
