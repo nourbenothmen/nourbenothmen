@@ -100,6 +100,6 @@ I am a passionate software engineering student at the Higher Institute of Techno
 
 ⭐ **From [Nour El Houda Ben Othmen](https://github.com/nourbenothmen)**
 
-![Snake animation](https://github.com/nourbenothmen/nourbenothmen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nourbenothmen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
