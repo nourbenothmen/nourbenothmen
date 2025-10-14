@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nour El Houda BEN OTHMEN
 
-🚀 **Full-Stack Developer** | 🎓 **Final Year Software Engineering Student** | 🤖 **AI & Mobile Enthusiast**
+🚀 **Full-Stack Developer** | 🎓 **Final Year Software Engineering Student**
 
 <div align="center">
 
