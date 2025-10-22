@@ -97,10 +97,8 @@ I am a passionate software engineering student at the Higher Institute of Techno
 
 <div align="center">
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ⭐ **From [Nour El Houda Ben Othmen](https://github.com/nourbenothmen)**
 
-![Snake animation](https://github.com/nourbenothmen/nourbenothmen/blob/output/github-contribution-grid-snake.svg)
 
 </div>
