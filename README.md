@@ -96,9 +96,7 @@ I am a passionate software engineering student at the Higher Institute of Techno
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nourbenothmen/nourbenothmen/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 ⭐ **From [Nour El Houda Ben Othmen](https://github.com/nourbenothmen)**
